@@ -1,4 +1,10 @@
 # Хомяк сделал
+<p align="center">
+  <a href="https://github.com/NIkiflini">
+    <img src="https://i3.wp.com/opis-cdn.tinkoffjournal.ru/mercury/in-sad-hamster.mbfryzbsrhv6..jpg?ssl=1">
+  </a>
+</p>
+
 ## Network_setup.sh
 
 скрипт создан для изменения IP.
