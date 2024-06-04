@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ $(id -u) -ne 0 ]; then
+  echo "Ты черт а надо чтоб был root"
+  exit 1
+fi
+
 readonly NETWORK_CONFIG_DIR="/etc/network/interfaces"
 readonly CURRENT_IP=$(ip a)
 
